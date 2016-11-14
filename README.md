@@ -8,7 +8,7 @@ DNS spoofing, also referred to as DNS cache poisoning in which spoofed Domain Na
 This program is used to first ARP poison the victim machine in order to get the traffic flow via attacker. And then using DNS spoof redirect to a malicious website.
 
 
-## 2. Flags
+## Flags
 
 Our program use the following flags in order to successfully DNS spoof a victim machine.
 - **-h, --help:**Used to display the usage information
