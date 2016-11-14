@@ -1,7 +1,6 @@
 #	dns_spoof.py
 #
-#	Design and Program: Vishav Singh
-#						          Manuel Gonzales
+#	Design and Program: Vishav Singh & Manuel Gonzales
 #
 #	functions:
 #
