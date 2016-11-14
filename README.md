@@ -22,5 +22,9 @@ Our program use the following flags in order to successfully DNS spoof a victim 
 ## Command
 `python mitm.py -i wlp2s0 -d 192.168.0.12 -r 192.168.0.1 -w codeshare.io,monkey.com,tiger.com -n milliways.bcit.ca -t hidden`
 
+### Python Dependencies
+- pip install netfilterqueue
+- pip install setproctitle
 
-
+### System Dependencies
+- dnf install scapy
